@@ -1,0 +1,15 @@
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\bin\Debug\net6.0\Aula9.exe
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\bin\Debug\net6.0\Aula9.deps.json
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\bin\Debug\net6.0\Aula9.runtimeconfig.json
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\bin\Debug\net6.0\Aula9.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\bin\Debug\net6.0\Aula9.pdb
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.csproj.AssemblyReference.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.AssemblyInfoInputs.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.AssemblyInfo.cs
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.csproj.CoreCompileInputs.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\refint\Aula9.dll
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.pdb
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\Aula9.genruntimeconfig.cache
+C:\Users\flora\Documents\Desenvolvimento\Aula09\Aula9\obj\Debug\net6.0\ref\Aula9.dll
